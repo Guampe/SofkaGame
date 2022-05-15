@@ -1,0 +1,2 @@
+# SofkaGame
+Juego de Preguntas
