@@ -25,6 +25,12 @@ Si llegas al final, te ganas todos los puntos posibles y el juego vuelve a inici
 Las preguntas se distribuyen en Base1 hasta Base 5, de acuerdo a los 5 niveles de dificultad.
 
 Clase Jugador: Contiene los atributos y métodos del Jugador que permiten su identificación y asignación de puntaje.
+
 Clase Pregunta: Contiene atributos y métodos estáticos para la correcta manipulación de los comportamientos de las preguntas y respuestas de acuerdo a las interacciones del Jugador.
+
 Clase Partida: contiene el método random para la aleatoriedad de las preguntas en cada partida.
+
 Clase inicio: Permite el inicio y el reinicio en ceros cada vez que se deba instanciar de acuerdo a las interacciones del Jugador.
+
+
+
